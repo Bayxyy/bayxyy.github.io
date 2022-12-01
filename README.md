@@ -52,7 +52,7 @@ The website is fully responsive and is maintained regularly.
 
 ### **Demo**
 
-<img src="image\snapshots\project_sakura_gif.gif"> </img>
+<img src="/assets/images/mobile.gif"> </img>
 
 ---
 
