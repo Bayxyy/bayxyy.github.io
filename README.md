@@ -1,92 +1,42 @@
-<div align="center">
-  <h1>🎓 Bayxyy Portfolio 🎓</h1>
-</div>
-<details open="open">
-  <summary>Table of Contents</summary>
-  <ol>
-  <li><a href="#overview">Overview</a></li>
-  <li><a href="#about">Resume</a></li>
-   <li><a href="#meet">Sertifikat</a></li>
-  <li><a href="#credits">Portfolio</a></li>
- </ol>
-</details>
+# Bayxyy - Personal Portfolio
 
-## **Overview**
+![GitHub repo size](https://img.shields.io/github/repo-size/bayxyy/bayxyy.github.io)
+![GitHub stars](https://img.shields.io/github/stars/bayxyy/bayxyy.github.io?style=social)
+![GitHub forks](https://img.shields.io/github/forks/bayxyy/bayxyy.github.io?style=social)
 
-Sakura provides quick timely updates and a great deal of customization with the same stability as Lineage OS.
+This is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
 
-It is an Open Source custom ROM building website that is being used by thousands of people and has more than 100k downloads.
+## Demo
 
-The project is originally based on android and there are 35 mobiles that are being maintained by 20 maintainers.
+![vCard Desktop Demo](/assets/mobile.png "Desktop Demo")
+![vCard Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
 
-For more information regarding new updates and features as well as to download Project Sakura please visit the official website here : [Project Sakura](https://projectsakura.xyz)
+## Prerequisites
 
-### **Features**
+Before you begin, ensure you have met the following requirements:
 
-- **Secure** ⚙️ : Project Sakura has all the security measures from Lineage OS.
-- **Customizable** 🔧 :Project Sakura comes with a beautiful interface and allows a lot of customization and personalization for the user.
-- **Open Source** 🌍 : Any kind of contribution to Project Sakura is welcome and much appreciated. [Fork us](https://github.com/Bayxyy)!
+* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
 
-  It is also one of the projects in the open source event, GirlScript Summer of Code 2021
+## Installing vCard
 
-- **Community Support** 🙌 : Project Sakura community is growing, come join us on [Telegram](https://t.me/ProjectSakura).
+To install **vCard**, follow these steps:
 
-If you like Project Sakura, please drop a ⭐ on the GitHub repository
+Linux and macOS:
 
----
+```bash
+sudo git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
+```
 
-## **About**
+Windows:
 
-### Tech Stack used in the website are :
+```bash
+git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
+```
 
-- HTML
-- CSS
-- Bootstrap
-- Javascript
+## Contact
 
-The website is fully responsive and is maintained regularly.
+If you want to contact me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
 
-## **Style Guide**
+## License
 
-<img src="image\StyleGuideby-DevrajDC.png"> </img>
-
-### **Demo**
-
-<img src="/assets/images/mobile.gif"> </img>
-
----
-
-## **Meet The Team**
-
-<table>
-<tr>
-  <td align="center"> <img src="image\maintainers\shen.jpeg" width="100px"> 
-  <br>
-  <sub><b> <a href="https://github.com/LordShenron">Priyanshu </a></b> <br>
-  Founder, Lead Developer
-</td>
-
- <td align="center"> <img src="image\maintainers\arun.jpeg" width="100px"> 
-  <br>
-  <sub><b> <a href="https://github.com/ArunTeltia">Arun</a></b> <br>
-  Web Developer
-</td>
-</tr> 
-</table>
-
-### **Contributors**
-
-Project Sakura Team would like to thank all the users, maintainers and developers who contributed to this project.
-
-[Our Contributors 🌟](https://github.com/ProjectSakura/ProjectSakura.github.io/graphs/contributors)
-
----
-
-## **Credits**
-
-- [Resurrecton Remix for the Homepage](https://resurrectionremix.com/)
-- [HarshV23 and NitinR for the new Homepage](https://legionos.org/)
-- [Ig Design for the download page design](https://codepen.io/ig_design/pen/omQXoQ)
-- [FlorinPop17 for the Card design and Footer design](https://codepen.io/FlorinPop17/pen/EJKgKB)
-- [Danaabhi7719 for Blog posts card design](https://codepen.io/danaabhi7119/pen/NWxjyby)
-- [mograph.ix for dowload animation](https://lottiefiles.com/25923-download-arrow)
+This project is **free to use** and does not contains any license.
