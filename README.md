@@ -1,4 +1,4 @@
-# Bayxyy - Personal Portfolio
+# Danang Bayu Pratama - Personal Portfolio
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/bayxyy/bayxyy.github.io)
 ![GitHub stars](https://img.shields.io/github/stars/bayxyy/bayxyy.github.io?style=social)
