@@ -2,8 +2,8 @@
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/bayxyy/bayxyy.github.io)
 ![HTML Version](https://img.shields.io/badge/HTML-orange)
-![CSS Version](https://img.shields.io/badge/CSS-blue)
-![Javascript Version](https://img.shields.io/badge/Javascript-purple)
+![CSS Version](https://img.shields.io/badge/CSS-purple)
+![Javascript Version](https://img.shields.io/badge/Javascript-yellow)
 ![GitHub stars](https://img.shields.io/github/stars/bayxyy/bayxyy.github.io?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/bayxyy/bayxyy.github.io?style=social)
 
